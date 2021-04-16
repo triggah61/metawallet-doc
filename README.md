@@ -1,4 +1,4 @@
-Note: This documentation version is aimed at dApp developers who would like to connect to Metawallet. The code snippets are included for their benefit. Tutorial links were added for beginners who may be interested to use Metawallet for their future dApps.
+Note: This documentation version is aimed at dApp developers who would like to connect to Metawallet. The code snippets are included as sample to facilitate quick integration. Tutorial links were added for beginners who may be interested to use Metawallet for their future dApps.
 
 &nbsp;
 # Osiris Metawallet Documentation: Developers&#39; Section
