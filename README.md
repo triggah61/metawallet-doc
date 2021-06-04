@@ -1,9 +1,9 @@
 Note: This documentation version is aimed at dApp developers who would like to connect to Metawallet. The code snippets are included as examples to facilitate quick integration. Tutorial links were added for beginners who may be interested to use Metawallet for their future dApps.
 
 &nbsp;
-# Osiris Metawallet Documentation: Developers&#39; Section
+# Acent Metawallet Documentation: Developers&#39; Section
 &nbsp;
-The Osiris Metawallet is the native multi-crypto wallet of Decenternet which is tightly integrated to Decenternet&#39;s Osiris browser, a secure, blockchain-based web 3.0 browser with dApp rendering capabilities and multi-crypto wallet integration. Metawallet features multi-blockchain support and allows users to transact crypto through its user interface (UI) supporting wallet transactions such as send, receive, and view wallet balance.
+The Acent Metawallet is the native multi-crypto wallet of Decenternet which is tightly integrated to Decenternet&#39;s Osiris browser, a secure, blockchain-based web 3.0 browser with dApp rendering capabilities and multi-crypto wallet integration. Metawallet features multi-blockchain support and allows users to transact crypto through its user interface (UI) supporting wallet transactions such as send, receive, and view wallet balance.
 
 This API aims to simplify the process of transacting and authorizing crypto financial transactions for web-based decentralized Apps (dApps).
 
